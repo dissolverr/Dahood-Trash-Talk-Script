@@ -7,6 +7,10 @@ local words = {
 'what the heck how r u so good dood', 
 'bruh dude is too cracked', 
 'ur cracked bro what',
+'dude stop being good at the game',
+'why r u soo good dude',
+'how r u this good it isn't fair', 
+'how do u play this good bro',
 }
 local player = game.Players.LocalPlayer
 local keybind = 'v'
