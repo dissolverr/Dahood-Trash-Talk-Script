@@ -11,6 +11,7 @@ local words = {
 'why r u soo good dude',
 'how r u this good it isn't fair', 
 'how do u play this good bro',
+'teach me how to play as good as u',
 }
 local player = game.Players.LocalPlayer
 local keybind = 'v'
